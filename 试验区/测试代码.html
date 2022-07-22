@@ -1,0 +1,62 @@
+<!--
+title: 测试代码
+description: 
+published: true
+date: 2022-07-22T11:48:02.080Z
+tags: 
+editor: code
+dateCreated: 2022-07-22T11:48:02.080Z
+-->
+
+<h1>Title</h1>
+
+<p>Some text here</p>
+<html>
+<head>
+<style type="text/css">
+.time {
+    font-family: Impact;
+    font-size: 50px;
+    color: #FFFFFF;
+    display: block;
+    font-weight: bold;
+    line-height:10px;
+    text-indent:30px;
+    text-shadow:5px 5px 10px #969696;
+
+}
+.date {
+    font-family: Impact;
+    font-size: 30px;
+    color: #FFFFFF;
+    display: block;
+    text-indent:30px;
+    text-shadow:5px 5px 10px #969696;
+}
+</style>
+<script>
+var monthname = ['January', 'February', 'March', 'April', 'May', 'June', 'July', 'August', 'September', 'October', 'November', 'December'];
+function padding(topad)
+{
+    topad = topad.toString();
+    if (topad.length == 1)
+    {
+    topad = '0' + topad;
+    };
+    return topad;
+};
+function tempus()
+{
+    now = new Date();
+    document.getElementById("time").innerHTML = padding(now.getHours()) + ':' + padding(now.getMinutes()) + ':' + padding(now.getSeconds());
+    document.getElementById("date").innerHTML = now.getDate() + ' ' + monthname[now.getMonth()] + ' ' + now.getFullYear();
+    setTimeout("tempus()", 1000);
+}
+</script>
+</head>
+<body onload="tempus();">
+<br><br><br>
+<span id="time" class="time">TIME</span><br>
+<span id="date" class="date">DATE</span>
+</body>
+</html>
