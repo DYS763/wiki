@@ -2,7 +2,7 @@
 title: A_Pi简介
 description: 
 published: true
-date: 2022-07-22T11:00:20.296Z
+date: 2022-07-22T11:04:24.865Z
 tags: 
 editor: markdown
 dateCreated: 2022-07-22T07:13:43.860Z
@@ -48,6 +48,12 @@ dateCreated: 2022-07-22T07:13:43.860Z
 + 在视频中经常玩梗，在成龙大哥“Duang”的梗还没有在网络上大火时Pi已经在视频中玩了多次了。曾经一边战斗一边念学姐掉头时候的台词。然后就死了
 + 在卷土重来的黄金城系列中，pi逐渐喜欢上玩马保国梗。
 + 在黄金城系列中通过输入指令将裤子穿在头上，内裤外穿，极为风骚。不愧为api超人。
+
+
+---
+<h2><a href="/A_pi/Api和他的小伙伴们">Api和他的小伙伴们</a></h2>
+<h2><a href="/A_pi/梗和语录">梗和语录</a></h2>
+
 ## 日常
 > + XXapi 谢谢api 相信api 小 心 A P i
 {.is-danger}
