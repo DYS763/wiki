@@ -2,7 +2,7 @@
 title: 所有MC相关游玩记录
 description: 
 published: true
-date: 2022-08-02T13:22:16.240Z
+date: 2022-08-02T13:59:55.640Z
 tags: minecraft
 editor: markdown
 dateCreated: 2022-08-02T13:22:16.240Z
@@ -79,7 +79,7 @@ dateCreated: 2022-08-02T13:22:16.240Z
 [https://www.bilibili.com/video/BV1YK4y1E7NT 黄金城配置文件测试1]
 [https://www.bilibili.com/video/BV1Ny4y167n9 黄金城配置文件测试2]
 [https://www.bilibili.com/video/BV14a411w7YP 黄金城配置文件测试3]
-* **【完结】烤鱼撒娇换来的MITE（2020）**
+* **【完结】烤鱼撒娇都不肯玩，过了几个月还是带了烤鱼玩的MITE（2020）**
 [https://www.bilibili.com/video/BV1fy4y1m7GE 烤鱼MITE 1]
 [https://www.bilibili.com/video/BV1Vy4y1U74k 烤鱼MITE 2]
 [https://www.bilibili.com/video/BV13t4y1C787 烤鱼MITE 3]
